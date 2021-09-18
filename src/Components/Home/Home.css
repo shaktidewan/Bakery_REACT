@@ -1,0 +1,11 @@
+.home{
+    display: flex;
+}
+
+.cakeContainer{
+    display: flex;
+    width: 100%;
+    padding: 40px;
+    flex-wrap: 20px;
+    justify-content: space-around;
+}

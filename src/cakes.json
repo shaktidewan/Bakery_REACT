@@ -1,0 +1,12 @@
+[ 
+    { "id": "0", "title": "Cake 1", "price": 350, "inStock": "5" }, 
+    { "id": "1", "title": "Cake 2",  "price": 300, "inStock": "6" }, 
+    { "id": "2", "title": "Cake 3",  "price": 400, "inStock": "7" },
+    { "id": "3", "title": "Cake 4",  "price": 500, "inStock": "5" },
+    { "id": "4", "title": "Cake 5",  "price": 600, "inStock": "6" },
+    { "id": "5", "title": "Cake 6",  "price": 500, "inStock": "7" },
+    { "id": "6", "title": "Cake 7",  "price": 100, "inStock": "5" },
+    { "id": "7", "title": "Cake 8",  "price": 200, "inStock": "6" },
+    { "id": "8", "title": "Cake 9",  "price": 900, "inStock": "8" },
+    { "id": "9", "title": "Cake 10",  "price": 1400, "inStock": "8" }
+]
